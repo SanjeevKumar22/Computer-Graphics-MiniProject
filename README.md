@@ -10,4 +10,4 @@ It consists of 3 frames- 1)Plane Take-off 2)Plane flyby and 3)Plane crash on the
 3) Run the .c file on CodeBlocks on Windows or follow the steps from the video to run the program on Linux environments.
 
 # NOTE:
-### This Project is for educational only and not for monetary purpose.
+### This Project is for education only and not for monetary purpose.
