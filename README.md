@@ -3,7 +3,8 @@
 6th sem Computer graphics mini project using OpenGL with CodeBlocks.
 The projet is a graphic version of the 9/11 aeroplane crash on the World Trade Center USA.
 It consists of 3 frames- 1)Plane Take-off 2)Plane flyby and 3)Plane crash on the twin tower.
-![](images/lastflight.jpg)
+<img src="images/lastflight.jpg" width="500" height="500">
+
 
 ## How To Run Project:
 1) Follow this detailed instructions on installing OpenGL on Windows/Linux: https://www.youtube.com/watch?v=kbdPTNzyeIM
