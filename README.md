@@ -1,5 +1,8 @@
 # Computer-Graphics-MiniProject
 
+<img src="images/gif_img.gif" width="500" height="500">
+
+
 VTU 6th sem CSE Computer graphics mini project using OpenGL with CodeBlocks.
 The project is a graphic version of the 9/11 aeroplane crash on the World Trade Center USA.
 It consists of 3 frames- 1)Plane Take-off 2)Plane flyby and 3)Plane crash on the twin tower.
